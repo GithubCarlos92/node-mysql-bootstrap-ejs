@@ -1,2 +1,2 @@
-# node-mysql-bootstrap-ejs
+# node- bootstrap - ejs - mysql
 Conexión a Base de datos con nodejs- mysql y plantilla ejs
